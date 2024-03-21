@@ -7,9 +7,11 @@ from sklearn.preprocessing import LabelEncoder
 
 # Load the Random Forest model
 @st.cache_data
-
-with open('./Models/lgb (1).pkl' , 'rb') as f:
-    model = pickle.load(f)
+def load_model():
+    model_path = "./Models/lgb (1).pkl"
+    with open(model_path, 'rb') as f:
+        model = joblib.load(f)
+    return model
 
 # Function to preprocess user input
 def preprocess_input(data):
