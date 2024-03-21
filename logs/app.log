@@ -1,0 +1,83 @@
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.385 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files","time":"2024-03-20T17:08:30.386Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.386 NotebookApp] Looking for jupyter_config in /etc/jupyter","time":"2024-03-20T17:08:30.392Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.388 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter","time":"2024-03-20T17:08:30.393Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.402 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter","time":"2024-03-20T17:08:30.403Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.402 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter","time":"2024-03-20T17:08:30.404Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.402 NotebookApp] Looking for jupyter_config in /root/.jupyter","time":"2024-03-20T17:08:30.405Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.404 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter","time":"2024-03-20T17:08:30.406Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.408 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py","time":"2024-03-20T17:08:30.409Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.408 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter","time":"2024-03-20T17:08:30.409Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.411 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:30.412Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.411 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter","time":"2024-03-20T17:08:30.413Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.412 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter","time":"2024-03-20T17:08:30.413Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.412 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter","time":"2024-03-20T17:08:30.413Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"[D 17:08:30.420 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py","time":"2024-03-20T17:08:30.421Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.710 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files","time":"2024-03-20T17:08:30.726Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.711 NotebookApp] Looking for jupyter_config in /etc/jupyter","time":"2024-03-20T17:08:30.728Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.715 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter","time":"2024-03-20T17:08:30.728Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.730 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter","time":"2024-03-20T17:08:30.734Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.730 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter","time":"2024-03-20T17:08:30.735Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.731 NotebookApp] Looking for jupyter_config in /root/.jupyter","time":"2024-03-20T17:08:30.735Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.732 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter","time":"2024-03-20T17:08:30.736Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.736 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py","time":"2024-03-20T17:08:30.738Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.737 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter","time":"2024-03-20T17:08:30.739Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.743 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:30.745Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.743 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter","time":"2024-03-20T17:08:30.745Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.743 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter","time":"2024-03-20T17:08:30.745Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.744 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter","time":"2024-03-20T17:08:30.745Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[D 17:08:30.751 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py","time":"2024-03-20T17:08:30.765Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.291Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json","time":"2024-03-20T17:08:31.292Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.292Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.296Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/root/.local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.297Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    \t/root/.jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.300Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2024-03-20T17:08:31.335Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Authentication of /metrics is OFF, since other authentication is disabled.","time":"2024-03-20T17:08:31.340Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2024-03-20T17:08:31.508Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.526Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json","time":"2024-03-20T17:08:31.530Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.531Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.534Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.local/etc/jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.535Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.jupyter/jupyter_notebook_config.json","time":"2024-03-20T17:08:31.538Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2024-03-20T17:08:31.546Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Authentication of /metrics is OFF, since other authentication is disabled.","time":"2024-03-20T17:08:31.549Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2024-03-20T17:08:31.705Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2024-03-20T17:08:35.251Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Jupyter Notebook 6.5.5 is running at:","time":"2024-03-20T17:08:35.251Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"http://172.28.0.12:9000/","time":"2024-03-20T17:08:35.253Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2024-03-20T17:08:35.255Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2024-03-20T17:08:35.429Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Jupyter Notebook 6.5.5 is running at:","time":"2024-03-20T17:08:35.434Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"http://172.28.0.2:9000/","time":"2024-03-20T17:08:35.435Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2024-03-20T17:08:35.436Z","v":0}
+{"pid":6,"type":"jupyter","level":30,"msg":"Kernel started: 58d43781-818c-41dd-aa1f-6b4dd7eb375b, name: python3","time":"2024-03-20T17:09:49.046Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Task exception was never retrieved","time":"2024-03-20T18:10:39.964Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"future: <Task finished name='Task-2047' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.10/dist-packages/tornado/websocket.py:1085> exception=WebSocketClosedError()>","time":"2024-03-20T18:10:39.964Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Traceback (most recent call last):","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/local/lib/python3.10/dist-packages/tornado/websocket.py\", line 1087, in wrapper","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    await fut","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"tornado.iostream.StreamClosedError: Stream is closed","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"During handling of the above exception, another exception occurred:","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Traceback (most recent call last):","time":"2024-03-20T18:10:39.965Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/lib/python3.10/asyncio/tasks.py\", line 232, in __step","time":"2024-03-20T18:10:39.966Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    result = coro.send(None)","time":"2024-03-20T18:10:39.966Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/local/lib/python3.10/dist-packages/tornado/websocket.py\", line 1089, in wrapper","time":"2024-03-20T18:10:39.966Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    raise WebSocketClosedError()","time":"2024-03-20T18:10:39.966Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"tornado.websocket.WebSocketClosedError","time":"2024-03-20T18:10:39.966Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7a0019fc6c50>","time":"2024-03-20T18:10:39.967Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Task exception was never retrieved","time":"2024-03-20T19:12:41.285Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"future: <Task finished name='Task-4022' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.10/dist-packages/tornado/websocket.py:1085> exception=WebSocketClosedError()>","time":"2024-03-20T19:12:41.285Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Traceback (most recent call last):","time":"2024-03-20T19:12:41.285Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/local/lib/python3.10/dist-packages/tornado/websocket.py\", line 1087, in wrapper","time":"2024-03-20T19:12:41.285Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    await fut","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"tornado.iostream.StreamClosedError: Stream is closed","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"During handling of the above exception, another exception occurred:","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Traceback (most recent call last):","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/lib/python3.10/asyncio/tasks.py\", line 232, in __step","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    result = coro.send(None)","time":"2024-03-20T19:12:41.286Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"  File \"/usr/local/lib/python3.10/dist-packages/tornado/websocket.py\", line 1089, in wrapper","time":"2024-03-20T19:12:41.287Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"    raise WebSocketClosedError()","time":"2024-03-20T19:12:41.287Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"tornado.websocket.WebSocketClosedError","time":"2024-03-20T19:12:41.287Z","v":0}
+{"pid":6,"type":"jupyter","level":40,"msg":"Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7a0019e742e0>","time":"2024-03-20T19:12:41.288Z","v":0}
