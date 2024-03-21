@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load the Random Forest model
 @st.cache_data
 def load_model():
-    model_path = "./Models/lgb (1).pkl"
+    model_path = "./Models/lgb.pkl"
     with open(model_path, 'rb') as f:
         model = joblib.load(f)
     return model
