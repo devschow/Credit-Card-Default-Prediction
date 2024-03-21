@@ -8,8 +8,8 @@ from sklearn.preprocessing import LabelEncoder
 # Load the Random Forest model
 @st.cache_data
 def load_model():
-    model = lgb
-    model = joblib.load(open('lgb (1).pkl', 'rb'))
+    model_path = "Models/lgb (1).pkl"
+    model = lgb.Booster(model_file=model_path)
     return model
 
 # Function to preprocess user input
