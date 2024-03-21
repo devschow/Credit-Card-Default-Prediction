@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load the Random Forest model
 @st.cache_data
 def load_model():
-    model_path = "Models/lgb (1).pkl"
+    model_path = "./Models/lgb (1).pkl"
     model = lgb.Booster(model_file=model_path)
     return model
 
