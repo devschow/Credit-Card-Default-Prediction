@@ -1,1 +1,3 @@
 # Credit-Card-Default-Prediction
+
+This project is a solution designed for predicting credit card defaults using machine learning models. It allows users to input customer details such as credit limit, gender, education level, marital status, age, payment status, and bill amounts. The backend of the application runs machine learning models, including Random Forest, LightGBM, and XGBoost, to predict the likelihood of a customer defaulting on their credit card payments. The frontend displays the prediction results, including the prediction itself and the probability of default. This project is useful for banks, financial institutions, and credit card companies to assess the risk of potential defaults among their customers.
